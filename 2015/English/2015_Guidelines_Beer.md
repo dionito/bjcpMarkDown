@@ -40,7 +40,7 @@ If you are familiar with the 2008 guidelines, note that many category names and 
 
 The BJCP Style Guidelines use some specific terms with specialized meaning: *Category*, *Subcategory,* and *Style*. When thinking of beer, mead and cider styles, the subcategory is the most important label -- *subcategory* means essentially the same thing as *style* and identifies the major characteristic of one type of beer, mead or cider. Each style has a well-defined description, which is the basic tool used during judging. When specialty beer descriptions refer to a *Classic Style*, we mean a *named style (subcategory name) in the BJCP Style Guidelines*; see the Introduction to Specialty-Type Beer section for more information.
 
-The larger *categories* are [arbitrary]{.underline} groupings of beer, mead, or cider styles, usually with similar characteristics but some subcategories are not necessarily related to others within the same category. The purpose of the structure within the BJCP Style Guidelines is to group styles of beer, mead and cider to facilitate judging during competitions; do not attempt to derive additional meaning from these groupings. No historical or geographic association is implied.
+The larger *categories* are **arbitrary** groupings of beer, mead, or cider styles, usually with similar characteristics but some subcategories are not necessarily related to others within the same category. The purpose of the structure within the BJCP Style Guidelines is to group styles of beer, mead and cider to facilitate judging during competitions; do not attempt to derive additional meaning from these groupings. No historical or geographic association is implied.
 
 Competitions may create their own *award categories* that are distinct from the *style categories* listed in these guidelines. **There is no requirement that competitions use style categories as award categories!** Individual styles can be grouped in any fashion to create desired award categories in competition, for instance to balance out the number of entries in each award category.
 
@@ -145,7 +145,7 @@ These guidelines attempt to use the modern craft beer definitions of *ale*, *lag
 
 The attributes discussed in this section are assumed to be present in every beer style description unless otherwise noted. It is not necessary to repeat all these characteristics for every style description. *Do not assume that since a characteristic (such as diacetyl) isn't mentioned in a style description that somehow it is allowable.*
 
-[Unless explicitly noted in an individual style description]{.underline}, all beer styles are assumed to be cleanly fermented and free from technical faults, including acetaldehyde, astringency, chlorophenols, diacetyl, DMS, fusel alcohol, and phenolics. All beer styles are assumed to be free of packaging and handling faults, including oxidation, light-struck, sour, and musty characteristics.
+**Unless explicitly noted in an individual style description**, all beer styles are assumed to be cleanly fermented and free from technical faults, including acetaldehyde, astringency, chlorophenols, diacetyl, DMS, fusel alcohol, and phenolics. All beer styles are assumed to be free of packaging and handling faults, including oxidation, light-struck, sour, and musty characteristics.
 
 In mouthfeel, all beers are assumed to be free from astringency, and not be creamy or have any other palate sensations unless otherwise noted. Beers with an alcohol level of 6% or less are assumed to not have the flavor or warming nature of alcohol, unless otherwise noted. Higher-alcohol beers that have a noticeable alcohol presence should not be harsh, hot, solventy, or burning. The alcohol character if noted, should be clean and not have fusel alcohols.
 
@@ -2410,7 +2410,7 @@ The term 'IPA' is used as a singular descriptor of a type of hoppy, bitter beer.
 
 **Mouthfeel:** Smooth, medium-light to medium-bodied mouthfeel. Medium carbonation. Some smooth alcohol warming can be sensed in stronger versions.
 
-**Entry Instructions:** Entrant [must]{.underline} specify a **strength** (session, standard, double); if no strength is specified, standard will be assumed. Entrant [must]{.underline} specify specific **type** of Specialty IPA from the library of known types listed in the Style Guidelines, or as amended by the BJCP web site; or the entrant must describe the type of Specialty IPA and its key characteristics in comment form so judges will know what to expect. Entrants [may]{.underline} specify specific **hop varieties** used, if entrants feel that judges may not recognize the varietal characteristics of newer hops. *Entrants may specify a combination of defined IPA types (e.g., Black Rye IPA) without providing additional descriptions.* Entrants may use this category for a different strength version of an IPA defined by its own BJCP subcategory (e.g., session-strength American or English IPA) -- except where an existing BJCP subcategory already exists for that style (e.g., double \[American\] IPA).
+**Entry Instructions:** Entrant **must** specify a **strength** (session, standard, double); if no strength is specified, standard will be assumed. Entrant **must** specify specific **type** of Specialty IPA from the library of known types listed in the Style Guidelines, or as amended by the BJCP web site; or the entrant must describe the type of Specialty IPA and its key characteristics in comment form so judges will know what to expect. Entrants **may** specify specific **hop varieties** used, if entrants feel that judges may not recognize the varietal characteristics of newer hops. *Entrants may specify a combination of defined IPA types (e.g., Black Rye IPA) without providing additional descriptions.* Entrants may use this category for a different strength version of an IPA defined by its own BJCP subcategory (e.g., session-strength American or English IPA) -- except where an existing BJCP subcategory already exists for that style (e.g., double \[American\] IPA).
 
 **Currently Defined Types:** *Black IPA, Brown IPA, White IPA, Rye IPA, Belgian IPA, Red IPA*
 
@@ -3926,7 +3926,7 @@ This style is intended for beer aged in wood without added alcohol character fro
 
 **Characteristic Ingredients:** Varies with base style. Aged in wooden casks or barrels, or using wood-based additives (wood chips, wood staves, oak essence). Fuller-bodied, higher-gravity base styles often are used since they can best stand up to the additional flavors, although experimentation is encouraged.
 
-**Entry Instructions:** The entrant **must** specify the [type of wood]{.underline} used and the [char level]{.underline} (if charred). The entrant **must** specify the [base style]{.underline}; the base style can be either a classic BJCP style (i.e., a named subcategory) or may be a generic type of beer (e.g., porter, brown ale). If an unusual wood has been used, the entrant **must** supply a brief description of the sensory aspects the wood adds to beer.
+**Entry Instructions:** The entrant **must** specify the **type of wood** used and the **char level** (if charred). The entrant **must** specify the **base style**; the base style can be either a classic BJCP style (i.e., a named subcategory) or may be a generic type of beer (e.g., porter, brown ale). If an unusual wood has been used, the entrant **must** supply a brief description of the sensory aspects the wood adds to beer.
 
 **Vital Statistics:**
 
@@ -3964,7 +3964,7 @@ This style is intended for beer aged in wood with added alcohol character from p
 
 **Characteristic Ingredients:** Varies with base style. Aged in wooden casks or barrels previously used to store alcohol (e.g., whiskey, bourbon, port, sherry, Madeira, wine, etc). Fuller-bodied, higher-gravity base styles often are used since they can best stand up to the additional flavors, although experimentation is encouraged.
 
-**Entry Instructions:** The entrant **must** specify the additional alcohol character, with information about the barrel if relevant to the finished flavor profile. The entrant **must** specify the [base style]{.underline}; the base style can be either a classic BJCP style (i.e., a named subcategory) or may be a generic type of beer (e.g., porter, brown ale). If an unusual wood or ingredient has been used, the entrant **must** supply a brief description of the sensory aspects the ingredients adds to the beer.
+**Entry Instructions:** The entrant **must** specify the additional alcohol character, with information about the barrel if relevant to the finished flavor profile. The entrant **must** specify the **base style**; the base style can be either a classic BJCP style (i.e., a named subcategory) or may be a generic type of beer (e.g., porter, brown ale). If an unusual wood or ingredient has been used, the entrant **must** supply a brief description of the sensory aspects the ingredients adds to the beer.
 
 **Vital Statistics:**
 
@@ -4876,221 +4876,175 @@ This system uses new categories based on country of origin. Specialty beers omit
 
 2.  International
 
-<!-- -->
+    A.  2A. International Pale Lager
 
-A.  2A. International Pale Lager
+    B.  2B. International Amber Lager
 
-B.  2B. International Amber Lager
-
-C.  2C. International Dark Lager
-
-<!-- -->
+    C.  2C. International Dark Lager
 
 3.  England
 
-<!-- -->
+    A.  11A. Ordinary Bitter
 
-A.  11A. Ordinary Bitter
+    B.  11B. Best Bitter
 
-B.  11B. Best Bitter
+    C.  11C. Strong Bitter
 
-C.  11C. Strong Bitter
+    D.  12A. British Golden Ale
 
-D.  12A. British Golden Ale
+    E.  12C. English IPA
 
-E.  12C. English IPA
+    F.  13A. Dark Mild
 
-F.  13A. Dark Mild
+    G.  13B. British Brown Ale
 
-G.  13B. British Brown Ale
+    H.  13C. English Porter
 
-H.  13C. English Porter
+    I.  16A. Sweet Stout
 
-I.  16A. Sweet Stout
+    J.  16B. Oatmeal Stout
 
-J.  16B. Oatmeal Stout
+    K.  16C. Tropical Stout
 
-K.  16C. Tropical Stout
+    L.  16D. Foreign Extra Stout
 
-L.  16D. Foreign Extra Stout
+    M.  17A. British Strong Ale
 
-M.  17A. British Strong Ale
+    N.  17B. Old Ale
 
-N.  17B. Old Ale
+    O.  17D. English Barleywine
 
-O.  17D. English Barleywine
+    P.  20C. Imperial Stout
 
-P.  20C. Imperial Stout
+    Q.  27\. Historical Beer (London Brown Ale)
 
-Q.  27\. Historical Beer (London Brown Ale)
-
-<!-- -->
 
 4.  Scotland
 
-<!-- -->
+    A.  14A. Scottish Light
 
-A.  14A. Scottish Light
+    B.  14B. Scottish Heavy
 
-B.  14B. Scottish Heavy
+    C.  14C. Scottish Export
 
-C.  14C. Scottish Export
-
-D.  17C. Wee Heavy
-
-<!-- -->
+    D.  17C. Wee Heavy
 
 5.  Ireland
 
-<!-- -->
+    A.  15A. Irish Red Ale
 
-A.  15A. Irish Red Ale
+    B.  15B. Irish Stout
 
-B.  15B. Irish Stout
-
-C.  15C. Irish Extra Stout
-
-<!-- -->
+    C.  15C. Irish Extra Stout
 
 6.  Belgium
 
-<!-- -->
+    A.  23B. Flanders Red Ale
 
-A.  23B. Flanders Red Ale
+    B.  23C. Oud Bruin
 
-B.  23C. Oud Bruin
+    C.  23D. Lambic
 
-C.  23D. Lambic
+    D.  23E. Gueuze
 
-D.  23E. Gueuze
+    E.  23F. Fruit Lambic
 
-E.  23F. Fruit Lambic
+    F.  24A. Witbier
 
-F.  24A. Witbier
+    G.  24B. Belgian Pale Ale
 
-G.  24B. Belgian Pale Ale
+    H.  25A. Belgian Blond Ale
 
-H.  25A. Belgian Blond Ale
+    I.  25B. Saison
 
-I.  25B. Saison
+    J.  25C. Belgian Golden Strong Ale
 
-J.  25C. Belgian Golden Strong Ale
+    K.  26A. Trappist Single
 
-K.  26A. Trappist Single
+    L.  26B. Belgian Dubbel
 
-L.  26B. Belgian Dubbel
+    M.  26C. Belgian Tripel
 
-M.  26C. Belgian Tripel
-
-N.  26D. Belgian Dark Strong Ale
-
-<!-- -->
+    N.  26D. Belgian Dark Strong Ale
 
 7.  France
 
-<!-- -->
-
-A.  24C. Bière de Garde
-
-<!-- -->
+    A.  24C. Bière de Garde
 
 8.  Germany
 
-<!-- -->
+    A.  4A. Munich Helles
 
-A.  4A. Munich Helles
+    B.  4B. Festbier
 
-B.  4B. Festbier
+    C.  4C. Helles Bock
 
-C.  4C. Helles Bock
+    D.  5A. German Leichtbier
 
-D.  5A. German Leichtbier
+    E.  5B. Kölsch
 
-E.  5B. Kölsch
+    F.  5C. Helles Exportbier
 
-F.  5C. Helles Exportbier
+    G.  5D. German Pils
 
-G.  5D. German Pils
+    H.  6A. Märzen
 
-H.  6A. Märzen
+    I.  6B. Rauchbier
 
-I.  6B. Rauchbier
+    J.  6C. Dunkles Bock
 
-J.  6C. Dunkles Bock
+    K.  7B. Altbier
 
-K.  7B. Altbier
+    L.  7C. Kellerbier
 
-L.  7C. Kellerbier
+    M.  8A. Munich Dunkel
 
-M.  8A. Munich Dunkel
+    N.  8B. Schwarzbier
 
-N.  8B. Schwarzbier
+    O.  9A. Doppelbock
 
-O.  9A. Doppelbock
+    P.  8B. Eisbock
 
-P.  8B. Eisbock
+    Q.  10A. Weissbier
 
-Q.  10A. Weissbier
+    R.  10B. Dunkles Weissbier
 
-R.  10B. Dunkles Weissbier
+    S.  10C. Weizenbock
 
-S.  10C. Weizenbock
+    T.  23A. Berliner Weisse
 
-T.  23A. Berliner Weisse
+    U.  27\. Historical Beer (Gose)
 
-U.  27\. Historical Beer (Gose)
+    V.  27\. Historical Beer (Lichtenhainer)
 
-V.  27\. Historical Beer (Lichtenhainer)
-
-W.  27\. Historical Beer (Roggenbier)
-
-<!-- -->
+    W.  27\. Historical Beer (Roggenbier)
 
 9.  Austria
 
-<!-- -->
-
-A.  7A. Vienna Lager
-
-<!-- -->
+    A.  7A. Vienna Lager
 
 10. Czech Republic
 
-<!-- -->
+    A.  3A. Czech Pale Lager
 
-A.  3A. Czech Pale Lager
+    B.  3B. Czech Premium Pale Lager
 
-B.  3B. Czech Premium Pale Lager
+    C.  3C. Czech Amber Lager
 
-C.  3C. Czech Amber Lager
-
-D.  3D. Czech Dark Lager
-
-<!-- -->
+    D.  3D. Czech Dark Lager
 
 11. Poland
 
-<!-- -->
-
-A.  27\. Historical Beer (Piwo Grodziskie)
-
-<!-- -->
+    A.  27\. Historical Beer (Piwo Grodziskie)
 
 12. Scandinavia
 
-<!-- -->
-
-A.  9C. Baltic Porter
-
-B.  27\. Historical Beer (Sahti)
-
-<!-- -->
+    A.  9C. Baltic Porter    
+    B.  27\. Historical Beer (Sahti)
 
 13. Australia
 
-<!-- -->
-
-A.  12B. Australian Sparkling Ale
+    A.  12B. Australian Sparkling Ale
 
 ## 5. Styles Sorted Using History
 
@@ -5099,7 +5053,7 @@ This system attempts to break the styles into groups based on historical develop
 1.  Pilsner
 
     A.  3A. Czech Pale Lager
-
+    
     B.  3B. Czech Premium Pale Lager
 
     C.  5D. German Pils
